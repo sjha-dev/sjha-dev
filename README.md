@@ -86,22 +86,29 @@ I'm a **Full Stack Developer** passionate about building modern, scalable and us
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sjha-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjha-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=sjha-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+    alt="Sudhanshu's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sjha-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Sudhanshu's Top Languages"
+    height="180"
+  />
 </p>
-
----
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sjha-dev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=sjha-dev&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
-
----
 
 ## 📈 Contribution Activity
 
