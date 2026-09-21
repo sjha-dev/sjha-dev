@@ -1,16 +1,26 @@
-#  Hi, I'm Sudhanshu Shekhar Jha
+
+<h1 align="center">
+  Hi, I'm Sudhanshu Shekhar Jha 👋
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+GenAI+Enthusiast;Problem+Solver;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Sudhanshu+Shekhar+Jha;Full+Stack+Developer;AI+%26+GenAI+Developer;DSA+%7C+Backend+%7C+AI"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/sjha-dev">
-    <img src="https://komarev.com/ghpvc/?username=sjha-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/sjha-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/sjha-dev?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  </a>
+  <img
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/127d79d7-e59d-4aa8-bd18-63b89c666d95"
+    width="280"
+    alt="Bodybuilder Coding"
+  />
+</p>
+
+<p align="center">
+  <b>Building. Learning. Lifting. Repeating. 💪</b>
+</p>
 </p>
 
 ---
